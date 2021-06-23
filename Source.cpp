@@ -12,4 +12,5 @@ int main()
 	srand(time(NULL));
 	  cout << "Teacher" << endl;
     cout << "Hello World" << endl;
+	cout << "volume" << endl;
 }
