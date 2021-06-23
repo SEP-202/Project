@@ -10,7 +10,7 @@ int main()
 {
 	SetConsoleCP(1251); SetConsoleOutputCP(1251);
 	srand(time(NULL));
-	  cout << "Teacher" << endl;
+	cout << "Teacher" << endl;
     cout << "Hello World" << endl;
 	cout << "volume" << endl;
 }
