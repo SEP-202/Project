@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="Zakir-cs-go.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Zhassulan-Volume.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
