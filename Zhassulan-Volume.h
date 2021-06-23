@@ -23,6 +23,6 @@ public:
 		cout << "Name :" << name << endl;
 		cout << "Like or Spotify :" << like << endl;
 		cout << "Grammy or " << boolalpha << grammy << endl;
-		cout << "Zhassulan moshgoi";
+	
 	}
 };
